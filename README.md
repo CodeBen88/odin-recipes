@@ -1,2 +1,1 @@
-# odin-recipes HTML exercise
-FUCK U
+# odin-recipes CHANGE PLEASE
